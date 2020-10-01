@@ -1,0 +1,9 @@
+l=[int(l) for l in input().split()]
+
+if sum(l)<0:
+
+  print("NO")
+
+else:
+
+  print("YES")
